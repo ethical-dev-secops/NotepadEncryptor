@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "PersonalNotepadPkg.App",
+            "projectName": "Note It Down_9fe7a323"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "PersonalNotepad.App",
+            "projectName": "Note It Down_9fe7a323"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "About",
+            "request": "launch",
+            "mainClass": "PersonalNotepad.About",
+            "projectName": "Note It Down_9fe7a323"
+        },
+        {
+            "type": "java",
+            "name": "PersonalNotepad",
+            "request": "launch",
+            "mainClass": "PersonalNotepad.PersonalNotepad",
+            "projectName": "Note It Down_9fe7a323"
+        }
+    ]
+}
